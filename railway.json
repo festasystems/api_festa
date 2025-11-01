@@ -1,8 +1,0 @@
-{
-  "build": {
-    "command": "echo 'Build o'tkazib yuborildi'"
-  },
-  "start": {
-    "command": "npm run start"
-  }
-}
